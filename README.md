@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hey there! 👋 I’m a passionate 2nd-year BSc Computer Science student with a love for tackling new challenges and expanding my knowledge. My curiosity drives me to dive deep into diverse topics—from algorithms and data structures to exploring the latest technologies.<br><br>I'm all about hands-on learning and turning concepts into real-world solutions. Whether it's coding up a project, contributing to open-source, or building something cool with my peers, I’m always committed to delivering quality work and growing through every experience.<br><br>I believe in the power of collaboration and innovation, so I’m constantly seeking out opportunities to learn and improve. Feel free to check out my repos, and let's connect if our interests align!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrar-ali-001-/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohammedAs26191)
 
