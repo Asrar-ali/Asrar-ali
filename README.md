@@ -1,6 +1,6 @@
 ## hey, i'm asrar
 
-SWE Co-op @ **Trend Micro** | CS @ **Lakehead University**
+SWE Co-op @ **TrendAI** | CS @ **Lakehead University**
 
 My code review partner has 200B parameters and zero empathy.
 
