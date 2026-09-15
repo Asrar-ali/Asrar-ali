@@ -1,25 +1,33 @@
-## hey, i'm asrar
+## Mohammed Asrar Ali
 
-SWE Co-op @ **TrendAI** | CS @ **Lakehead University**
+**Software Developer, Co-op @ Trend Micro** · CS @ **Lakehead University** (grad Dec 2026)
 
-My code review partner has 200B parameters and zero empathy.
+I build security controls for AI systems — the guardrail layer between developers and
+large language models. At Trend Micro I work on an enterprise **LLM security gateway**
+(Go), a **supply-chain scanner** for AI agent extensions, and policy-driven governance
+for autonomous coding agents. Off the clock I keep building at the same intersection of
+**security + AI**.
 
-currently building things on the Cloud One platform in Java, and shipping [RAG systems](https://huggingface.co/spaces/md-asrar/system-design-assistant) on the side.
+### Featured projects
 
-```
-git commit -m "it works, don't ask why"
-```
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Hydra](https://github.com/Asrar-ali/Hydra)** · [live](https://asrar-ali.github.io/Hydra/) | Adversarial evasion lab: an LLM rewrites a benign sample against YARA + Falco to measure which detection survives an adaptive AI adversary | Python · YARA · Falco · Docker |
+| **[System Design Assistant](https://github.com/Asrar-ali/system-design-assistant)** · [live](https://huggingface.co/spaces/md-asrar/system-design-assistant) | RAG over 11K+ chunks with hybrid BM25 + vector retrieval and grounded, cited answers | Python · LlamaIndex · ChromaDB |
+| **[ScamShield](https://github.com/Asrar-ali/scamshield)** | Real-time scam detector that names manipulation tactics live and intervenes before money moves | TypeScript · Gemini · MongoDB |
+| **[Campus RAG](https://github.com/Asrar-ali/campus-rag-assistant)** | Fully local, private document Q&A that cites its sources and refuses when unsupported | Python · Qdrant · Ollama |
 
-**stuff i use daily:** Java, Python, Docker, Jenkins, AWS, Linux, Git
+### Stack
 
-**stuff i build with:** Flask, React, PyTorch, ChromaDB, Qdrant
+**Languages** — Go · Python · Java · TypeScript · SQL
+**Building with** — React · FastAPI · PyTorch · LlamaIndex · Docker · AWS · Azure
 
-[![Portfolio](https://img.shields.io/badge/asrar--ali.github.io-6366f1?style=flat)](https://asrar-ali.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ali01/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:mali46@lakeheadu.ca)
+### Reach me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-asrar--ali.github.io-6366f1?style=flat)](https://asrar-ali.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ali01/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mali46@lakeheadu.ca)
 
 ---
 
-> *"Nothing happened."* — Roronoa Zoro
-
-fun fact: current One Piece chapter has me more stressed than any prod incident.
+<sub>Currently most interested in: what breaks when the attacker can reason. If it involves an LLM behaving badly on purpose, I want to hear about it.</sub>
